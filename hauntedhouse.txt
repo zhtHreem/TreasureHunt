@@ -1,0 +1,3 @@
+2
+C:/Users/zaina/Desktop/room1.txt
+C:/Users/zaina/Desktop/room2.txt
